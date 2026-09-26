@@ -17,6 +17,21 @@
   <img src="https://img.shields.io/badge/Identity-DTrongVIP-FF9900?style=for-the-badge&logo=starship&logoColor=white" alt="DTrongVIP" />
 </p>
 
+<p align="center">
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=2500&pause=1000&color=00F0FF&background=0A0E1A&center=true&vCenter=true&width=580&height=48&lines=%F0%9F%8E%AE+%5BCLICK+%C4%90%E1%BB%82+M%E1%BB%9F+KH%C3%94NG+GIAN+3D+XOAY+CHU%E1%BB%98T+360%C2%B0+LIVE%5D;%E2%9C%A8+K%C3%89O+CHU%E1%BB%98T+XOAY+KH%E1%BB%90I+H%E1%BB%98P+AI+T%C6%AF%C6%A0NG+T%C3%81C+REAL-TIME" alt="DTrongVIP Live 3D Space Portal" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_M%E1%BB%9F_Kh%C3%B4ng_Gian_3D-Xoay_Chu%E1%BB%99t_360%C2%B0_Three.js-00F0FF?style=for-the-badge&logo=threedotjs&logoColor=black" alt="3D Live Portal" />
+  </a>
+</p>
+
+> 🎮 **TRẢI NGHIỆM 3D LIVE TƯƠNG TÁC:** Dùng chuột kéo xoay 360°, phóng to/thu nhỏ và click vào các khối hộp lập phương AI đa diện tại:  
+> 👉 **[daohuutrong2404.github.io](https://daohuutrong2404.github.io)**
+
 ---
 
 ### 🏆 3D GitHub Achievements & Trophies

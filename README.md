@@ -1,72 +1,75 @@
 <p align="center">
-  <img src="./banner_3d_ai.jpg" alt="DTrongVIP 3D AI Core Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7B2CBF,100:FF007F&height=220&section=header&text=DTrongVIP%20%E2%9C%A8&fontSize=62&fontAlignY=38&desc=%F0%9F%9A%80%20AI%20Student%20@%20Can%20Tho%20University%20%7C%20Autonomous%20Agents%20%7C%203D%20Web%20Motion&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="./banner_3d_ai.jpg" alt="DTrongVIP 3D AI Matrix" width="100%" style="border-radius: 12px; box-shadow: 0 0 25px rgba(0, 240, 255, 0.4);" />
+  </a>
 </p>
 
 <h1 align="center">⚡ Hi there, I'm Đào Hữu Trọng (DTrongVIP) 👋</h1>
 
 <p align="center">
   <a href="https://github.com/DaoHuuTrong2404">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Artificial+Intelligence+Student+%40+Can+Tho+University+(CTU+-+K52);Building+Autonomous+AI+Agents+%26+Computer-Use+Systems;Exploring+Deep+Learning+%7C+Vision+%7C+3D+WebGL+Motion;Mastering+Algorithms+%26+Next-Gen+Software+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=85&lines=%F0%9F%A7%A0+Artificial+Intelligence+Student+%40+Can+Tho+University+(CTU+-+K52);%F0%9F%A4%96+Architecting+Autonomous+AI+Agents+%26+Computer-Use+Engines;%E2%9C%A8+Pioneering+Creative+3D+WebGL+%26+GSAP+Kinetic+Motion;%F0%9F%94%A5+Mastering+Algorithms+%26+Next-Gen+Software+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:huutrong748@gmail.com"><img src="https://img.shields.io/badge/Email-huutrong748%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/DaoHuuTrong2404"><img src="https://img.shields.io/badge/GitHub-DaoHuuTrong2404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/University-Can_Tho_University_(CTU)-0055A5?style=for-the-badge&logo=google-classroom&logoColor=white" alt="CTU" />
-  <img src="https://img.shields.io/badge/Identity-DTrongVIP-FF9900?style=for-the-badge&logo=starship&logoColor=white" alt="DTrongVIP" />
+  <img src="https://komarev.com/ghpvc/?username=DaoHuuTrong2404&style=for-the-badge&color=00F0FF&labelColor=0A0E1A&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/DaoHuuTrong2404"><img src="https://img.shields.io/github/followers/DaoHuuTrong2404?style=for-the-badge&color=7B2CBF&logo=github&labelColor=0A0E1A" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Can_Tho_University-College_of_ICT-0055A5?style=for-the-badge&logo=google-classroom&logoColor=white&labelColor=0A0E1A" alt="CTU" />
+  <img src="https://img.shields.io/badge/Major-Artificial_Intelligence-7B2CBF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A0E1A" alt="AI Major" />
+  <img src="https://img.shields.io/badge/Identity-DTrongVIP-FF007F?style=for-the-badge&logo=starship&logoColor=white&labelColor=0A0E1A" alt="DTrongVIP" />
 </p>
 
-<p align="center">
-  <a href="https://daohuutrong2404.github.io" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&duration=2500&pause=1000&color=00F0FF&background=0A0E1A&center=true&vCenter=true&width=580&height=48&lines=%F0%9F%8E%AE+%5BCLICK+%C4%90%E1%BB%82+M%E1%BB%9F+KH%C3%94NG+GIAN+3D+XOAY+CHU%E1%BB%98T+360%C2%B0+LIVE%5D;%E2%9C%A8+K%C3%89O+CHU%E1%BB%98T+XOAY+KH%E1%BB%90I+H%E1%BB%98P+AI+T%C6%AF%C6%A0NG+T%C3%81C+REAL-TIME" alt="DTrongVIP Live 3D Space Portal" />
-  </a>
-</p>
+<br />
 
-<p align="center">
-  <a href="https://daohuutrong2404.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_M%E1%BB%9F_Kh%C3%B4ng_Gian_3D-Xoay_Chu%E1%BB%99t_360%C2%B0_Three.js-00F0FF?style=for-the-badge&logo=threedotjs&logoColor=black" alt="3D Live Portal" />
-  </a>
-</p>
-
-> 🎮 **TRẢI NGHIỆM 3D LIVE TƯƠNG TÁC:** Dùng chuột kéo xoay 360°, phóng to/thu nhỏ và click vào các khối hộp lập phương AI đa diện tại:  
-> 👉 **[daohuutrong2404.github.io](https://daohuutrong2404.github.io)**
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" style="background: #0A0E1A; border: 1.5px solid #00F0FF; border-radius: 12px; padding: 22px;">
+        <h3 align="center" style="margin-top: 5px; color: #00F0FF;">🎮 KHÔNG GIAN 3D TƯƠNG TÁC THỜI GIAN THỰC (THREE.JS & WEBGL)</h3>
+        <p align="center" style="color: #E2E8F0;"><i>Dùng chuột kéo xoay 360°, cuộn bánh xe để zoom in/out và tương tác các khối lập phương AI phát sáng tại:</i></p>
+        <p align="center">
+          <a href="https://daohuutrong2404.github.io" target="_blank">
+            <img src="https://img.shields.io/badge/%F0%9F%8E%AE_M%E1%BB%9F_Kh%C3%B4ng_Gian_3D-Xoay_Chu%E1%BB%99t_360%C2%B0_Three.js-00F0FF?style=for-the-badge&logo=threedotjs&logoColor=black" alt="3D Live Portal" />
+          </a>
+          <a href="https://daohuutrong2404.github.io" target="_blank">
+            <img src="https://img.shields.io/badge/%E2%9C%A8_Kh%C3%A1m_Ph%C3%A1_Portfolio_3D-daohuutrong2404.github.io-7B2CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🏆 3D GitHub Achievements & Trophies
-
-<p align="center">
-  <a href="https://github.com/DaoHuuTrong2404">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaoHuuTrong2404&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="DTrongVIP's 3D GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me & Academic Base
+### 👨‍💻 About Me & Academic Horizon
 
 ```yaml
 Name: Đào Hữu Trọng (Dao Huu Trong)
 Brand: DTrongVIP
-Education: Freshman @ Can Tho University (College of ICT)
+Education: Freshman @ Can Tho University (College of Information & Communication Technology)
 Major: Artificial Intelligence (Trí Tuệ Nhân Tạo) - Cohort 52 (2026 - 2031)
-Philosophy: "Empowering human potential through autonomous intelligence & resilient engineering."
+Philosophy: "Empowering human potential through autonomous intelligence & resilient software engineering."
 Core Focus:
-  - Autonomous Agent Architectures (OpenHands SDK, Computer-Use Agent)
+  - Autonomous Agent Architectures (OpenHands SDK, Computer-Use Agent 2.0)
   - Directional Ablation & LLM Optimization (Heretic, Quantization)
-  - Real-Time Vision & High-Speed Multi-Platform Crawling
-  - Creative 3D Web Experiences (Three.js, WebGL, GSAP 3)
+  - Creative 3D Web & Interactive Systems (Three.js, WebGL, GSAP 3)
   - Competitive Algorithms & Data Structures in Modern C/C++
+  - Real-Time Multi-Platform Intelligence Gathering
 ```
 
 ---
 
-### 🛠️ Tech Stack & Technical Weaponry
+### 🛠️ Tech Stack & Technical Arsenal
 
 <table align="center" width="100%">
   <tr>
-    <td width="20%" valign="top"><b>💻 Languages</b></td>
+    <td width="22%" valign="top"><b>💻 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -74,10 +77,12 @@ Core Focus:
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>🧠 AI & Deep Learning</b></td>
+    <td width="22%" valign="top"><b>🧠 AI & Deep Learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
@@ -89,7 +94,7 @@ Core Focus:
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>🤖 Agents & Automation</b></td>
+    <td width="22%" valign="top"><b>🤖 Agents & Automation</b></td>
     <td>
       <img src="https://img.shields.io/badge/OpenHands_SDK-00D2FF?style=for-the-badge&logo=anthropic&logoColor=black" alt="OpenHands" />
       <img src="https://img.shields.io/badge/CUA_2.0-Computer--Use-7B2CBF?style=for-the-badge&logo=windows&logoColor=white" alt="CUA" />
@@ -98,18 +103,20 @@ Core Focus:
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>✨ Creative & 3D Web</b></td>
+    <td width="22%" valign="top"><b>✨ Creative & 3D Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
       <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
       <img src="https://img.shields.io/badge/GSAP_3-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
       <img src="https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=react&logoColor=white" alt="Remotion" />
     </td>
   </tr>
   <tr>
-    <td width="20%" valign="top"><b>☁️ Cloud & Tooling</b></td>
+    <td width="22%" valign="top"><b>☁️ Cloud & DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" alt="Codespaces" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -120,15 +127,27 @@ Core Focus:
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Real-Time Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaoHuuTrong2404&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="DaoHuuTrong2404's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaoHuuTrong2404&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaoHuuTrong2404&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="DaoHuuTrong2404's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaoHuuTrong2404&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaoHuuTrong2404&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DaoHuuTrong2404&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -143,18 +162,18 @@ Core Focus:
         <p>Unified autonomous multi-agent engineering suite: Computer-Use Agent (CUA), Jarvis Neural Voice, ADB Phone Controller, Anti-Detect Fleet, and Real-Time Intel.</p>
       </td>
       <td width="50%" valign="top">
-        <h4>🧠 <a href="https://github.com/DaoHuuTrong2404/autonomous-ai-agents-workspace">autonomous-ai-agents-workspace</a></h4>
-        <p>Next-gen autonomous AI agent workflows, tool orchestration, and LLM abliteration experimentation at Can Tho University.</p>
+        <h4>🎮 <a href="https://daohuutrong2404.github.io">daohuutrong2404.github.io</a></h4>
+        <p>Interactive procedural 3D graphics, PBR shader materials, dynamic orbiting cubes, audio synthesizer, and smooth 60fps GSAP kinetic motion.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4>📐 <a href="https://github.com/DaoHuuTrong2404/cpp-data-structures-and-algorithms">cpp-data-structures-and-algorithms</a></h4>
-        <p>Comprehensive algorithmic mastery, competitive programming implementations, and mathematical problem-solving in modern C++.</p>
+        <h4>🧠 <a href="https://github.com/DaoHuuTrong2404/autonomous-ai-agents-workspace">autonomous-ai-agents-workspace</a></h4>
+        <p>Next-gen autonomous AI agent workflows, tool orchestration, and LLM abliteration experimentation at Can Tho University.</p>
       </td>
       <td width="50%" valign="top">
-        <h4>🎨 <a href="https://github.com/DaoHuuTrong2404/creative-3d-web-experiences">creative-3d-web-experiences</a></h4>
-        <p>Interactive procedural 3D graphics, PBR shader materials, fluid physics, and smooth 60fps GSAP kinetic motion design.</p>
+        <h4>📐 <a href="https://github.com/DaoHuuTrong2404/cpp-data-structures-and-algorithms">cpp-data-structures-and-algorithms</a></h4>
+        <p>Comprehensive algorithmic mastery, competitive programming implementations, and mathematical problem-solving in modern C++.</p>
       </td>
     </tr>
   </table>
@@ -162,8 +181,19 @@ Core Focus:
 
 ---
 
+### 🌐 Connect & Network
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
+  <a href="mailto:huutrong748@gmail.com"><img src="https://img.shields.io/badge/Email-huutrong748%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E1A" alt="Gmail" /></a>
+  <a href="https://github.com/DaoHuuTrong2404"><img src="https://img.shields.io/badge/GitHub-DaoHuuTrong2404-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E1A" alt="GitHub" /></a>
+  <a href="https://daohuutrong2404.github.io" target="_blank"><img src="https://img.shields.io/badge/3D_Portal-Live_WebGL-00F0FF?style=for-the-badge&logo=threedotjs&logoColor=black&labelColor=0A0E1A" alt="3D Portal" /></a>
+  <a href="https://ctu.edu.vn" target="_blank"><img src="https://img.shields.io/badge/CTU-Can_Tho_University-0055A5?style=for-the-badge&logo=google-classroom&logoColor=white&labelColor=0A0E1A" alt="CTU Portal" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F0FF,50:7B2CBF,100:FF007F&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">

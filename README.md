@@ -161,12 +161,12 @@
 
 ### 🚀 Dự Án Tiêu Biểu & Hệ Thống Đã Triển Khai
 
-| Dự án | Lĩnh vực | Điểm nhấn công nghệ | Liên kết |
+| Dự án | Phân loại | Điểm nhấn công nghệ cốt lõi | Hành động |
 | :--- | :---: | :--- | :---: |
-| 🤖 **`autonomous-ai-agents-workspace`** | AI Agents & CUA | Kiến trúc ReAct reasoning loops, GNAP Swarm Protocol, Computer-Use SOM và Zero-Dependency Hybrid RAG | [Xem Repository ↗](https://github.com/DaoHuuTrong2404/autonomous-ai-agents-workspace) |
-| 🎮 **`daohuutrong2404.github.io`** | 3D WebGL Portfolio | Không gian 3D tương tác xoay 360°, Web Audio synthesizer, trợ lý Cyber Neko Meow và GSAP 60fps | [Trải nghiệm Live ↗](https://daohuutrong2404.github.io) |
-| ⚡ **`cpp-data-structures-and-algorithms`** | C++20 & Algorithms | Giải thuật lập trình thi đấu, cấu trúc dữ liệu nâng cao (AVL Tree, Dijkstra), chuẩn hóa bộ nhớ C++20 CTU | [Xem Repository ↗](https://github.com/DaoHuuTrong2404/cpp-data-structures-and-algorithms) |
-| 🔒 **`cuongmeai-toolkit`** | Cloud Orchestration | Private master suite: điều phối kỹ năng AI, kết nối máy chủ Codespaces 16GB Cloud Hub và Jarvis Voice | *(Private Core)* |
+| 🤖 [**`autonomous-ai-agents-workspace`**](https://github.com/DaoHuuTrong2404/autonomous-ai-agents-workspace) | ![AI Agents](https://img.shields.io/badge/AI-Agents-00F5D4?style=flat-square&labelColor=0D0B18) | Kiến trúc ReAct reasoning loops, GNAP Swarm Protocol, Computer-Use SOM và Zero-Dependency Hybrid RAG | [![Code Explore](https://img.shields.io/badge/Code-Explore_↗-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaoHuuTrong2404/autonomous-ai-agents-workspace) |
+| 🎮 [**`daohuutrong2404.github.io`**](https://daohuutrong2404.github.io) | ![3D WebGL](https://img.shields.io/badge/3D-WebGL-9D4EDD?style=flat-square&labelColor=0D0B18) | Không gian 3D tương tác xoay 360°, Web Audio synthesizer, trợ lý Cyber Neko Meow và GSAP 60fps | [![Live Portal](https://img.shields.io/badge/Live_Portal-360%C2%B0_↗-00F5D4?style=for-the-badge&logo=threedotjs&logoColor=black)](https://daohuutrong2404.github.io) |
+| ⚡ [**`cpp-data-structures-and-algorithms`**](https://github.com/DaoHuuTrong2404/cpp-data-structures-and-algorithms) | ![C++20](https://img.shields.io/badge/C%2B%2B-20_Algorithms-00FF87?style=flat-square&labelColor=0D0B18) | Giải thuật lập trình thi đấu, cấu trúc dữ liệu nâng cao (AVL Tree, Dijkstra), chuẩn hóa bộ nhớ C++20 CTU | [![Code Explore](https://img.shields.io/badge/Code-Explore_↗-7928CA?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/DaoHuuTrong2404/cpp-data-structures-and-algorithms) |
+| 🔒 [**`cuongmeai-toolkit`**](https://github.com/DaoHuuTrong2404/cuongmeai-toolkit) | ![Cloud](https://img.shields.io/badge/Cloud-16GB_Server-181717?style=flat-square&labelColor=0D0B18) | Private master suite: điều phối kỹ năng AI, kết nối máy chủ Codespaces 16GB Cloud Hub và Jarvis Voice | [![Private](https://img.shields.io/badge/Core-Private_🔒-4B0082?style=for-the-badge)](https://github.com/DaoHuuTrong2404/cuongmeai-toolkit) |
 
 ---
 
@@ -179,12 +179,10 @@
   <a href="https://ctu.edu.vn" target="_blank"><img src="https://img.shields.io/badge/CTU-Can_Tho_University-0055A5?style=for-the-badge&logo=google-classroom&logoColor=white&labelColor=0D0B18" alt="CTU Portal" /></a>
 </p>
 
----
-
+<!-- ==================== MASTER CYBER FOOTER CARD ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00F5D4,50:9D4EDD,100:7928CA&height=110&section=footer" width="100%" />
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/assets/cyber_footer_card.svg" alt="DTrongVIP Cyber Footer & Manifesto" width="100%" />
+  </a>
 </p>
 
-<p align="center">
-  <i>🐾 "Mọi dòng code là một bước chân hướng về tương lai thông minh và tự chủ." — Đào Hữu Trọng (DTrongVIP) 🐾</i>
-</p>

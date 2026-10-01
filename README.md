@@ -1,29 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7928CA,40:9D4EDD,80:00F5D4,100:00FF87&height=230&section=header&text=DTrongVIP%20%E2%9C%A8%20%C4%90%C3%A0o%20H%E1%BB%AFu%20Tr%E1%BB%8Dng&fontSize=52&fontAlignY=38&desc=%F0%9F%90%BE%20AI%20Engineering%20%40%20Can%20Tho%20University%20%7C%20Autonomous%20Swarm%20Agents%20%7C%20Creative%203D%20WebGL&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7928CA,40:9D4EDD,80:00F5D4,100:00FF87&height=230&section=header&text=DTrongVIP%20%E2%9C%A8%20%C4%90%C3%A0o%20H%E1%BB%AFu%20Tr%E1%BB%8Dng&fontSize=52&fontAlignY=38&desc=%F0%9F%90%BE%20AI%20Engineering%20%40%20Can%20Tho%20University%20%7C%20Autonomous%20Swarm%20Agents%20%7C%20Creative%203D%20WebGL&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://daohuutrong2404.github.io" target="_blank">
-    <img src="./banner_3d_ai.jpg" alt="DTrongVIP 3D AI Matrix" width="100%" style="border-radius: 14px; box-shadow: 0 0 30px rgba(121, 40, 202, 0.45), 0 0 15px rgba(0, 245, 212, 0.35);" />
+    <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/banner_3d_ai.jpg" alt="DTrongVIP 3D AI Matrix" width="100%" />
   </a>
 </p>
 
-<!-- Cat Animation & Greeting Bar -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="./assets/cat_typing.gif" width="130" alt="Cyber Cat Typing" style="border-radius: 12px; filter: drop-shadow(0 0 10px rgba(0, 245, 212, 0.6));" />
-      </td>
-      <td align="left" valign="middle" style="padding-left: 15px;">
-        <h2 style="margin: 0; color: #00F5D4;">🐾 Meow! Welcome to Đào Hữu Trọng's AI Cyber-Space</h2>
-        <p style="margin: 4px 0 0 0; color: #E2E8F0; font-size: 15px;">
-          Sinh viên Kỹ thuật <b>Trí Tuệ Nhân Tạo (AI)</b> • Trường ĐH Cần Thơ (CTU) • AI Agent Architect
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ==================== CYBER NEKO GREETING CARD ==================== -->
+<p align="center">
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/assets/cat_greeting_card.svg" alt="Cyber Neko Greeting Card" width="100%" />
+  </a>
+</p>
+
+<!-- Animated Typing Cat Mascot & Dynamic Typing -->
+<p align="center">
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/assets/cat_typing.gif" width="150" alt="Cyber Cat Typing" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DaoHuuTrong2404">
@@ -42,57 +41,36 @@
 
 <br />
 
-<!-- 3D PORTAL CALLOUT -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #0D0B18 0%, #15102A 100%); border: 1.5px solid #7928CA; border-radius: 14px; padding: 22px; box-shadow: 0 0 25px rgba(121, 40, 202, 0.3);">
-        <h3 align="center" style="margin-top: 5px; color: #00F5D4;">🎮 KHÔNG GIAN 3D TƯƠNG TÁC THỜI GIAN THỰC (THREE.JS & WEBGL)</h3>
-        <p align="center" style="color: #E2E8F0; font-size: 14px;"><i>Dùng chuột kéo xoay 360°, cuộn phóng to/thu nhỏ, click khối hộp công nghệ và thưởng thức âm thanh synthesizer:</i></p>
-        <p align="center">
-          <a href="https://daohuutrong2404.github.io" target="_blank">
-            <img src="https://img.shields.io/badge/%F0%9F%8E%AE_M%E1%BB%9F_Kh%C3%B4ng_Gian_3D-Xoay_Chu%E1%BB%99t_360%C2%B0_Three.js-00F5D4?style=for-the-badge&logo=threedotjs&logoColor=black" alt="3D Live Portal" />
-          </a>
-          <a href="https://daohuutrong2404.github.io" target="_blank">
-            <img src="https://img.shields.io/badge/%E2%9C%A8_Kh%C3%A1m_Ph%C3%A1_Portfolio_3D-daohuutrong2404.github.io-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ==================== 3D PORTAL CALLOUT BANNER ==================== -->
+<p align="center">
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/assets/portal_3d_banner.svg" alt="3D WebGL Space" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE_M%E1%BB%9F_Kh%C3%B4ng_Gian_3D-Xoay_Chu%E1%BB%99t_360%C2%B0_Three.js-00F5D4?style=for-the-badge&logo=threedotjs&logoColor=black" alt="3D Live Portal" />
+  </a>
+  <a href="https://daohuutrong2404.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9C%A8_Kh%C3%A1m_Ph%C3%A1_Portfolio_3D-daohuutrong2404.github.io-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Web" />
+  </a>
+</p>
 
 ---
 
 ### 🎓 Dành Cho Ban Tuyển Sinh & Nhà Đào Tạo (Admissions & Academic Dossier)
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h4 style="color: #00F5D4; margin-top: 0;">🏛️ Thông Tin Học Thuật & Định Hướng</h4>
-      <ul>
-        <li><b>Họ và tên:</b> Đào Hữu Trọng (Dao Huu Trong)</li>
-        <li><b>Nghệ danh kỹ thuật:</b> DTrongVIP</li>
-        <li><b>Trường đào tạo:</b> Trường Công Nghệ Thông Tin & Truyền Thông (CICT) — <b>Đại học Cần Thơ (CTU)</b></li>
-        <li><b>Chuyên ngành:</b> <b>Trí Tuệ Nhân Tạo (Artificial Intelligence)</b> — Khóa 52 (2026 - 2031)</li>
-        <li><b>Tôn chỉ kỹ thuật:</b> <i>"Kỷ luật kỹ thuật chuẩn xác, không tự chứng nhận khi chưa có test chạy thực tế (Zero Self-Certification), kiến tạo AI tự hành vì lợi ích cộng đồng."</i></li>
-      </ul>
-      <h4 style="color: #9D4EDD;">🔬 Lĩnh Vực Trọng Tâm & Đề Tài Nghiên Cứu</h4>
-      <ul>
-        <li><b>Autonomous AI Agents:</b> Vòng lặp suy luận ReAct, Swarm Protocol, tích hợp Computer-Use (CUA 2.0).</li>
-        <li><b>High-Performance Computing:</b> Giải thuật và cấu trúc dữ liệu nâng cao trên C++20, quản lý bộ nhớ không rò rỉ.</li>
-        <li><b>Computer Vision & Multimodal:</b> Nhận diện vật thể, bóc tách dữ liệu thị giác SOM, Directional Ablation cho LLM.</li>
-        <li><b>Cloud Native Agentics:</b> Tối ưu hóa pipeline tính toán trên GitHub Codespaces 16GB RAM, Zero Local Latency.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle" style="background: #0D0B18; border-radius: 12px; border: 1px solid #7928CA; padding: 15px;">
-      <img src="./assets/pixel_cat.gif" width="160" alt="Pixel Cat Coding" style="border-radius: 10px; margin-bottom: 10px;" />
-      <br />
-      <span style="color: #00F5D4; font-family: monospace; font-size: 13px;"><b>🐾 CTU AI COHORT 52</b></span>
-      <p style="color: #A855F7; font-size: 12px; margin-top: 6px;"><i>"Code chăm chỉ như chú mèo gõ phím cả đêm để săn tìm chân lý giải thuật!"</i></p>
-    </td>
-  </tr>
-</table>
+<!-- Official CTU Admissions & Academic Dossier SVG Card -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/assets/ctu_admissions_card.svg" alt="Can Tho University AI Admissions Dossier" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/assets/pixel_cat.gif" width="140" alt="Pixel Cat Coding" />
+  <br />
+  <sub style="color: #9D4EDD;">🐾 <i>"Code chăm chỉ như chú mèo gõ phím săn tìm chân lý giải thuật tại Đại học Cần Thơ!"</i></sub>
+</p>
 
 ---
 
@@ -183,34 +161,12 @@
 
 ### 🚀 Dự Án Tiêu Biểu & Hệ Thống Đã Triển Khai
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top" style="border: 1px solid #7928CA; border-radius: 10px; padding: 12px; background: #0D0B18;">
-        <h4>🤖 <a href="https://github.com/DaoHuuTrong2404/autonomous-ai-agents-workspace" style="color: #00F5D4;">autonomous-ai-agents-workspace</a></h4>
-        <p style="color: #CBD5E1; font-size: 13.5px;">Kiến trúc AI Agent tự hành cấp sản xuất: vòng lặp suy luận ReAct, cơ chế GNAP Swarm, điều khiển máy tính Vision CUA SOM và Hybrid RAG phục vụ nghiên cứu Trí tuệ Nhân tạo tại ĐH Cần Thơ.</p>
-        <span style="color: #A855F7; font-size: 12px;"><b>Tags:</b> #Python #AI-Agents #Computer-Use #ReAct</span>
-      </td>
-      <td width="50%" valign="top" style="border: 1px solid #00F5D4; border-radius: 10px; padding: 12px; background: #0D0B18;">
-        <h4>🎮 <a href="https://daohuutrong2404.github.io" style="color: #00F5D4;">daohuutrong2404.github.io</a></h4>
-        <p style="color: #CBD5E1; font-size: 13.5px;">Không gian 3D tương tác xoay 360° với Three.js & WebGL, PBR shader materials, các khối công nghệ bay quỹ đạo, bộ tổng hợp âm thanh Web Audio và chuyển động GSAP 60fps mượt mà.</p>
-        <span style="color: #00F5D4; font-size: 12px;"><b>Tags:</b> #ThreeJS #WebGL #GSAP #Cyberpunk #Portfolio</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top" style="border: 1px solid #00F5D4; border-radius: 10px; padding: 12px; background: #0D0B18;">
-        <h4>⚡ <a href="https://github.com/DaoHuuTrong2404/cpp-data-structures-and-algorithms" style="color: #00F5D4;">cpp-data-structures-and-algorithms</a></h4>
-        <p style="color: #CBD5E1; font-size: 13.5px;">Chinh phục giải thuật lập trình thi đấu, cấu trúc dữ liệu nâng cao (Cây AVL, Đồ thị Dijkstra, Quy hoạch động) và tối ưu hóa bộ nhớ C++17/20 thuộc chương trình đào tạo CTU.</p>
-        <span style="color: #00F5D4; font-size: 12px;"><b>Tags:</b> #Cpp20 #Algorithms #DataStructures #CTU-K52</span>
-      </td>
-      <td width="50%" valign="top" style="border: 1px solid #7928CA; border-radius: 10px; padding: 12px; background: #0D0B18;">
-        <h4>🔒 <a href="https://github.com/DaoHuuTrong2404/cuongmeai-toolkit" style="color: #00F5D4;">cuongmeai-toolkit</a> <i>(Private Core)</i></h4>
-        <p style="color: #CBD5E1; font-size: 13.5px;">Hệ thống Agentic Orchestrator độc quyền: điều phối 407 kỹ năng AI, kết nối máy ảo Codespaces 16GB RAM Server Cloud, và trợ lý giọng nói Jarvis Neural Voice.</p>
-        <span style="color: #A855F7; font-size: 12px;"><b>Tags:</b> #AgentShield #Codespaces #ZeroLatency #Private</span>
-      </td>
-    </tr>
-  </table>
-</div>
+| Dự án | Lĩnh vực | Điểm nhấn công nghệ | Liên kết |
+| :--- | :---: | :--- | :---: |
+| 🤖 **`autonomous-ai-agents-workspace`** | AI Agents & CUA | Kiến trúc ReAct reasoning loops, GNAP Swarm Protocol, Computer-Use SOM và Zero-Dependency Hybrid RAG | [Xem Repository ↗](https://github.com/DaoHuuTrong2404/autonomous-ai-agents-workspace) |
+| 🎮 **`daohuutrong2404.github.io`** | 3D WebGL Portfolio | Không gian 3D tương tác xoay 360°, Web Audio synthesizer, trợ lý Cyber Neko Meow và GSAP 60fps | [Trải nghiệm Live ↗](https://daohuutrong2404.github.io) |
+| ⚡ **`cpp-data-structures-and-algorithms`** | C++20 & Algorithms | Giải thuật lập trình thi đấu, cấu trúc dữ liệu nâng cao (AVL Tree, Dijkstra), chuẩn hóa bộ nhớ C++20 CTU | [Xem Repository ↗](https://github.com/DaoHuuTrong2404/cpp-data-structures-and-algorithms) |
+| 🔒 **`cuongmeai-toolkit`** | Cloud Orchestration | Private master suite: điều phối kỹ năng AI, kết nối máy chủ Codespaces 16GB Cloud Hub và Jarvis Voice | *(Private Core)* |
 
 ---
 

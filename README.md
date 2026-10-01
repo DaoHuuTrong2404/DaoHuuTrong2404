@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://daohuutrong2404.github.io" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:7928CA,40:9D4EDD,80:00F5D4,100:00FF87&height=230&section=header&text=DTrongVIP%20%E2%9C%A8%20%C4%90%C3%A0o%20H%E1%BB%AFu%20Tr%E1%BB%8Dng&fontSize=52&fontAlignY=38&desc=%F0%9F%90%BE%20AI%20Engineering%20%40%20Can%20Tho%20University%20%7C%20Autonomous%20Swarm%20Agents%20%7C%20Creative%203D%20WebGL&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+    <img src="https://raw.githubusercontent.com/DaoHuuTrong2404/DaoHuuTrong2404/main/assets/header_master_banner.svg" alt="DTrongVIP Đào Hữu Trọng - Can Tho University AI Engineering" width="100%" />
   </a>
 </p>
 

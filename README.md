@@ -9,7 +9,7 @@
 **Artificial Intelligence B.S. Student (Cohort K52)** · Can Tho University (CTU), Vietnam  
 **Focus:** Competitive Machine Learning (Speech, RAG, Combinatorial & Quantum Optimization) · Deterministic & Real-Time AI/RTOS Systems · Verification-Driven Engineering
 
-[Portfolio](https://daohuutrong2404.github.io) · [Kaggle (`daohuutrong2404`)](https://www.kaggle.com/daohuutrong2404) · [Devpost (`DaoHuuTrong2404`)](https://devpost.com/DaoHuuTrong2404) · [Full Project Catalog](PROJECTS.md) · [Email](mailto:huutrong748@gmail.com)
+[Portfolio](https://daohuutrong2404.github.io) · [LinkedIn](https://www.linkedin.com/in/tr%E1%BB%8Dng-h%E1%BB%AFu-00abb8449/) · [Kaggle (`daohuutrong2404`)](https://www.kaggle.com/daohuutrong2404) · [Devpost (`DaoHuuTrong2404`)](https://devpost.com/DaoHuuTrong2404) · [Full Project Catalog](PROJECTS.md) · [Email](mailto:huutrong748@gmail.com)
 
 ---
 
